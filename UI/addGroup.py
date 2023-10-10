@@ -1,3 +1,4 @@
+'''Copyright 2023, Battelle Energy Alliance, LLC, ALL RIGHTS RESERVED'''
 import sqlite3
 from PyQt5 import QtWidgets,uic
 import json

@@ -1,3 +1,5 @@
+'''Copyright 2023, Battelle Energy Alliance, LLC, ALL RIGHTS RESERVED'''
+
 import re
 from datetime import datetime
 import pandas as pd

@@ -1,3 +1,5 @@
+'''Copyright 2023, Battelle Energy Alliance, LLC, ALL RIGHTS RESERVED'''
+
 from sqlite3 import Connection
 from datetime import datetime
 from PyQt5 import QtWidgets

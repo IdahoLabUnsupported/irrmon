@@ -1,3 +1,5 @@
+'''Copyright 2023, Battelle Energy Alliance, LLC, ALL RIGHTS RESERVED'''
+
 import sip
 from numpy import add,arange,flip,zeros
 import matplotlib.pyplot as plt

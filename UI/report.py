@@ -1,3 +1,5 @@
+'''Copyright 2023, Battelle Energy Alliance, LLC, ALL RIGHTS RESERVED'''
+
 import Utils.dbTools as dbt
 import matplotlib.pyplot as plt
 import numpy as np

@@ -1,3 +1,5 @@
+'''Copyright 2023, Battelle Energy Alliance, LLC, ALL RIGHTS RESERVED'''
+
 from PyQt5 import QtWidgets, uic
 import json
 

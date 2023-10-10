@@ -1,3 +1,5 @@
+'''Copyright 2023, Battelle Energy Alliance, LLC, ALL RIGHTS RESERVED'''
+
 import Utils.dbTools as dbt
 from csv import writer
 from PyQt5 import QtWidgets,uic
