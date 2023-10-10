@@ -1,0 +1,6355 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -112.82667,
+          42.953333
+        ],
+        "type": "Point"
+      },
+      "id": "1",
+      "properties": {
+        "program": "agrimet",
+        "url": "abeida.html",
+        "siteid": "abei",
+        "title": "Aberdeen, Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": "3/20/1991"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.3332,
+          43.18985
+        ],
+        "type": "Point"
+      },
+      "id": "2",
+      "properties": {
+        "program": "agrimet",
+        "url": "ackida.html",
+        "siteid": "acki",
+        "title": "INL - Blackfoot,  Idaho  Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.93583,
+          42.73333
+        ],
+        "type": "Point"
+      },
+      "id": "3",
+      "properties": {
+        "program": "agrimet",
+        "url": "aftyda.html",
+        "siteid": "afty",
+        "title": "Afton, Wyoming AgriMet Weather Station",
+        "state": "WY",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "11/1/1980"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.9825,
+          42.56527
+        ],
+        "type": "Point"
+      },
+      "id": "4",
+      "properties": {
+        "program": "agrimet",
+        "url": "agkoda.html",
+        "siteid": "agko",
+        "title": "Agency Lake Ranch, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "5/3/2000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.46666,
+          44.025
+        ],
+        "type": "Point"
+      },
+      "id": "5",
+      "properties": {
+        "program": "agrimet",
+        "url": "ahtida.html",
+        "siteid": "ahti",
+        "title": "Ashton, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "6/1/1987"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.168889,
+          40.093889
+        ],
+        "type": "Point"
+      },
+      "id": "6",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnanv",
+        "siteid": "anvn",
+        "title": "DRI - Antelope Valley, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "6/11/2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.75027,
+          45.28194
+        ],
+        "type": "Point"
+      },
+      "id": "7",
+      "properties": {
+        "program": "agrimet",
+        "url": "araoda.html",
+        "siteid": "arao",
+        "title": "Aurora, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "10/22/1998"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -124.41722,
+          43.09111
+        ],
+        "type": "Point"
+      },
+      "id": "8",
+      "properties": {
+        "program": "agrimet",
+        "url": "banoda.html",
+        "siteid": "bano",
+        "title": "Bandon, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "5/1/1985"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.27388,
+          42.47805
+        ],
+        "type": "Point"
+      },
+      "id": "9",
+      "properties": {
+        "program": "agrimet",
+        "url": "batoda.html",
+        "siteid": "bato",
+        "title": "Beatty, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "10/19/2004"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.32027,
+          44.0475
+        ],
+        "type": "Point"
+      },
+      "id": "10",
+      "properties": {
+        "program": "agrimet",
+        "url": "bewoda.html",
+        "siteid": "bewo",
+        "title": "Bend, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "5/1/2003"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.58869934082,
+          48.6753997802734
+        ],
+        "type": "Point"
+      },
+      "id": "11",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_bfam_blackfeet.html",
+        "siteid": "bfam",
+        "title": "Blackfeet-Seville Colony, MT (BFAM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.27417,
+          43.65303
+        ],
+        "type": "Point"
+      },
+      "id": "12",
+      "properties": {
+        "program": "agrimet",
+        "url": "bfgida.html",
+        "siteid": "bfgi",
+        "title": "Boise Fairgrounds Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "8/15/2013"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.563667297363,
+          48.8356819152832
+        ],
+        "type": "Point"
+      },
+      "id": "13",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_bftm_bigflatturner.html",
+        "siteid": "bftm",
+        "title": "Big Flat - Turner, MT (BFTM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.96277,
+          44.88277
+        ],
+        "type": "Point"
+      },
+      "id": "14",
+      "properties": {
+        "program": "agrimet",
+        "url": "bkvoda.html",
+        "siteid": "bkvo",
+        "title": "Baker Valley, Oregon Agrimet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/1/2001"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.209215,
+          40.372624
+        ],
+        "type": "Point"
+      },
+      "id": "15",
+      "properties": {
+        "siteid": "blbu",
+        "title": "Bluebell, UT AgriMet Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/20/2016"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.491167,
+          41.962167
+        ],
+        "type": "Point"
+      },
+      "id": "16",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=403",
+        "siteid": "blcu",
+        "title": "UCC - Blue Creek, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.420137,
+          41.933628
+        ],
+        "type": "Point"
+      },
+      "id": "17",
+      "properties": {
+        "siteid": "blou",
+        "title": "UCC - BearLake, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.93111,
+          45.64777
+        ],
+        "type": "Point"
+      },
+      "id": "18",
+      "properties": {
+        "program": "agrimet",
+        "url": "bndwda.html",
+        "siteid": "bndw",
+        "title": "Bonneville Dam AgriMet, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/13/2002"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.17694,
+          43.60027
+        ],
+        "type": "Point"
+      },
+      "id": "19",
+      "properties": {
+        "program": "agrimet",
+        "url": "boiida.html",
+        "siteid": "boii",
+        "title": "Boise, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "7/26/1995"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.235900878906,
+          47.5195465087891
+        ],
+        "type": "Point"
+      },
+      "id": "20",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_bomt_brokeno.html",
+        "siteid": "bomt",
+        "title": "Broken-O Ranch, MT (BOMT)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.154624938965,
+          45.6730155944824
+        ],
+        "type": "Point"
+      },
+      "id": "21",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_bozm_bozeman.html",
+        "siteid": "bozm",
+        "title": "Bozeman, MT (BOZM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.803146362305,
+          46.988468170166
+        ],
+        "type": "Point"
+      },
+      "id": "22",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_brgm_bufrapidsglendive.html",
+        "siteid": "brgm",
+        "title": "Buffalo Rapids-Glendive, MT (BRGM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -113.702016666667,
+          37.7196
+        ],
+        "type": "Point"
+      },
+      "id": "23",
+      "properties": {
+        "siteid": "brju",
+        "title": "UCC - Beryl Junction, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -124.24083,
+          42.03
+        ],
+        "type": "Point"
+      },
+      "id": "24",
+      "properties": {
+        "program": "agrimet",
+        "url": "brkoda.html",
+        "siteid": "brko",
+        "title": "Brookings, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/27/1999"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.297546386719,
+          46.7783851623535
+        ],
+        "type": "Point"
+      },
+      "id": "25",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_brtm_buffrapidsterry.html",
+        "siteid": "brtm",
+        "title": "Buffalo Rapids-Terry, MT (BRTM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.711483,
+          38.0399
+        ],
+        "type": "Point"
+      },
+      "id": "26",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=419",
+        "siteid": "bucu",
+        "title": "UCC - Buckhorn, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.252222,
+          38.223056
+        ],
+        "type": "Point"
+      },
+      "id": "27",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvcbva",
+        "siteid": "bvpc",
+        "title": "DRI - Bridgeport Valley, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "7/12/2012"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.78418,
+          47.71797
+        ],
+        "type": "Point"
+      },
+      "id": "28",
+      "properties": {
+        "program": "agrimet",
+        "url": "cdaida.html",
+        "siteid": "cdai",
+        "title": "Coeur d'Alene Fairgrounds, Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.17138,
+          41.58527
+        ],
+        "type": "Point"
+      },
+      "id": "29",
+      "properties": {
+        "program": "agrimet",
+        "url": "cedcda.html",
+        "siteid": "cedc",
+        "title": "Cedarville, California AgriMet Weather Station",
+        "state": "CA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/1/1985"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -113.137166666667,
+          37.6729666666667
+        ],
+        "type": "Point"
+      },
+      "id": "30",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=422",
+        "siteid": "cedu",
+        "title": "UCC - Cedar City, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.73916,
+          48.03138
+        ],
+        "type": "Point"
+      },
+      "id": "31",
+      "properties": {
+        "program": "agrimet",
+        "url": "chawda.html",
+        "siteid": "chaw",
+        "title": "Chamokane, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "11/27/2007"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.72805,
+          43.24138
+        ],
+        "type": "Point"
+      },
+      "id": "32",
+      "properties": {
+        "program": "agrimet",
+        "url": "chvoda.html",
+        "siteid": "chvo",
+        "title": "Christmas Valley, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/1/1985"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.63555,
+          47.99083
+        ],
+        "type": "Point"
+      },
+      "id": "33",
+      "properties": {
+        "program": "agrimet",
+        "url": "cjdwda.html",
+        "siteid": "cjdw",
+        "title": "Chief Joseph Dam, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/15/2002"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.95611,
+          42.077831
+        ],
+        "type": "Point"
+      },
+      "id": "34",
+      "properties": {
+        "url": "ckvyda.html",
+        "program": "agrimet",
+        "siteid": "ckvy",
+        "title": "Cokeville, Wyoming AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/9/2015"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.969444444444,
+          40.8683333333333
+        ],
+        "type": "Point"
+      },
+      "id": "35",
+      "properties": {
+        "siteid": "clon",
+        "title": "Clover Valley, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "11-SEP-2014 13:34:52.94"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.969444,
+          40.868333
+        ],
+        "type": "Point"
+      },
+      "id": "36",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnclv",
+        "siteid": "clvn",
+        "title": "DRI - Clover Valley, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "9/11/2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.08333,
+          46.33333
+        ],
+        "type": "Point"
+      },
+      "id": "37",
+      "properties": {
+        "program": "agrimet",
+        "url": "covmda.html",
+        "siteid": "covm",
+        "title": "Corvallis, Montana AgriMet Weather Station",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/1/1984"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.17395,
+          41.51915
+        ],
+        "type": "Point"
+      },
+      "id": "38",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=413",
+        "siteid": "crnu",
+        "title": "UCC - Corinne, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.12777,
+          48.1875
+        ],
+        "type": "Point"
+      },
+      "id": "39",
+      "properties": {
+        "program": "agrimet",
+        "url": "crsmda.html",
+        "siteid": "crsm",
+        "title": "Creston, Montana AgriMet Weather Station",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/1/1988"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.19,
+          44.63416
+        ],
+        "type": "Point"
+      },
+      "id": "40",
+      "properties": {
+        "program": "agrimet",
+        "url": "crvoda.html",
+        "siteid": "crvo",
+        "title": "Corvallis, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "2/1/1990"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.07003,
+          39.220131
+        ],
+        "type": "Point"
+      },
+      "id": "41",
+      "properties": {
+        "program": "agrimet",
+        "url": "csduda.html",
+        "siteid": "csdu",
+        "title": "Castle Dale, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "12/1/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.398967,
+          38.648302
+        ],
+        "type": "Point"
+      },
+      "id": "42",
+      "properties": {
+        "program": "agrimet",
+        "url": "csvuda.html",
+        "siteid": "csvu",
+        "title": "Castle Valley, Utah AgriMet Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/11/2015"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.803889,
+          38.992778
+        ],
+        "type": "Point"
+      },
+      "id": "43",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvncva",
+        "siteid": "cvan",
+        "title": "DRI - Carson Valley, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "8/10/2010"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.64055,
+          45.58638
+        ],
+        "type": "Point"
+      },
+      "id": "44",
+      "properties": {
+        "program": "agrimet",
+        "url": "defoda.html",
+        "siteid": "defo",
+        "title": "Dee Flat, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "11/1/1988"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.22055,
+          46.62333
+        ],
+        "type": "Point"
+      },
+      "id": "45",
+      "properties": {
+        "program": "agrimet",
+        "url": "denida.html",
+        "siteid": "deni",
+        "title": "Dworshak - Dent Acres, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/19/2002"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.509391784668,
+          45.3335762023926
+        ],
+        "type": "Point"
+      },
+      "id": "46",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_dlnm_dillon.html",
+        "siteid": "dlnm",
+        "title": "Dillon, MT (DLNM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.12,
+          38.73
+        ],
+        "type": "Point"
+      },
+      "id": "47",
+      "properties": {
+        "url": "http://ccc.atmos.colostate.edu/",
+        "program": "agrimet",
+        "siteid": "dlt01",
+        "title": "Delta, Colorado CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.87895,
+          41.76295
+        ],
+        "type": "Point"
+      },
+      "id": "48",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=410",
+        "siteid": "drfu",
+        "title": "UCC - Drainage Farm, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.76666,
+          46.33555
+        ],
+        "type": "Point"
+      },
+      "id": "49",
+      "properties": {
+        "program": "agrimet",
+        "url": "drlmda.html",
+        "siteid": "drlm",
+        "title": "Deer Lodge, Montana AgriMet Weather Station",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "6/4/1998"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.433522,
+          47.954642
+        ],
+        "type": "Point"
+      },
+      "id": "50",
+      "properties": {
+        "program": "agrimet",
+        "url": "drpwda.html",
+        "siteid": "drpw",
+        "title": "Deer Park, Washington Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "6/25/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.17916,
+          44.73
+        ],
+        "type": "Point"
+      },
+      "id": "51",
+      "properties": {
+        "program": "agrimet",
+        "url": "dtroda.html",
+        "siteid": "dtro",
+        "title": "Detroit Lake, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/19/2002"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.36013,
+          40.18068
+        ],
+        "type": "Point"
+      },
+      "id": "52",
+      "properties": {
+        "program": "agrimet",
+        "url": "ducuda.html",
+        "siteid": "ducu",
+        "title": "Duchesne, Utah AgriMet Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.12929,
+          42.43355
+        ],
+        "type": "Point"
+      },
+      "id": "53",
+      "properties": {
+        "program": "agrimet",
+        "url": "dwnida.html",
+        "siteid": "dwni",
+        "title": "Downey, Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/27/2015"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.651733,
+          43.594133
+        ],
+        "type": "Point"
+      },
+      "id": "54",
+      "properties": {
+        "siteid": "ebri",
+        "title": "INL - Material Fuels Complex, Idaho",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.31111,
+          45.71861
+        ],
+        "type": "Point"
+      },
+      "id": "55",
+      "properties": {
+        "program": "agrimet",
+        "url": "echoda.html",
+        "siteid": "echo",
+        "title": "Echo, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/1/1988"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.32373,
+          47.69796
+        ],
+        "type": "Point"
+      },
+      "id": "56",
+      "properties": {
+        "program": "agrimet",
+        "url": "efhwda.html",
+        "siteid": "efhw",
+        "title": "Entiat Fish Hatchery, Washington Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/26/2013"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.83798,
+          39.421265
+        ],
+        "type": "Point"
+      },
+      "id": "57",
+      "properties": {
+        "program": "agrimet",
+        "url": "elmuda.html",
+        "siteid": "elmu",
+        "title": "Elmo, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "12/3/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.97861,
+          39.68527
+        ],
+        "type": "Point"
+      },
+      "id": "58",
+      "properties": {
+        "program": "agrimet",
+        "url": "eurnda.html",
+        "siteid": "eurn",
+        "title": "Eureka, Nevada AgriMet Weather Station ",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "6/1/1987"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.833166666667,
+          41.6945
+        ],
+        "type": "Point"
+      },
+      "id": "59",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=411",
+        "siteid": "evfu",
+        "title": "UCC - Evan's Farm, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.02937,
+          41.19713
+        ],
+        "type": "Point"
+      },
+      "id": "60",
+      "properties": {
+        "program": "agrimet",
+        "url": "evtyda.html",
+        "siteid": "evty",
+        "title": "Evanston, Wyoming AgriMet Weather Station",
+        "state": "WY",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/9/2015"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.82222,
+          43.31305
+        ],
+        "type": "Point"
+      },
+      "id": "61",
+      "properties": {
+        "program": "agrimet",
+        "url": "fafida.html",
+        "siteid": "fafi",
+        "title": "Fairfield, Idaho AgriMet Weather Station  ",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "6/1/1987"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.77388,
+          39.4575
+        ],
+        "type": "Point"
+      },
+      "id": "62",
+      "properties": {
+        "program": "agrimet",
+        "url": "falnda.html",
+        "siteid": "faln",
+        "title": "Fallon, Nevada AgriMet Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/1/2001"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.0004,
+          38.9571
+        ],
+        "type": "Point"
+      },
+      "id": "63",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=417",
+        "siteid": "flou",
+        "title": "UCC - Flowell, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.08361,
+          45.55305
+        ],
+        "type": "Point"
+      },
+      "id": "64",
+      "properties": {
+        "program": "agrimet",
+        "url": "fogoda.html",
+        "siteid": "fogo",
+        "title": "Forest Grove, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "5/1/1989"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.15426,
+          39.075554
+        ],
+        "type": "Point"
+      },
+      "id": "65",
+      "properties": {
+        "program": "agrimet",
+        "url": "frnuda.html",
+        "siteid": "frnu",
+        "title": "Ferron, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "12/2/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.7,
+          39.18
+        ],
+        "type": "Point"
+      },
+      "id": "66",
+      "properties": {
+        "url": "http://ccc.atmos.colostate.edu/",
+        "program": "agrimet",
+        "siteid": "frt02",
+        "title": "Fruita CSU Expt Station, Colorado CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.43111,
+          43.07138
+        ],
+        "type": "Point"
+      },
+      "id": "67",
+      "properties": {
+        "program": "agrimet",
+        "url": "fthida.html",
+        "siteid": "fthi",
+        "title": "Fort Hall, Idaho AgriMet Weather Station ",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "11/15/1992"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.95361,
+          47.94527
+        ],
+        "type": "Point"
+      },
+      "id": "68",
+      "properties": {
+        "program": "agrimet",
+        "url": "gcdwda.html",
+        "siteid": "gcdw",
+        "title": "Grand Coulee Dam, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/16/2002"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.05611,
+          42.9125
+        ],
+        "type": "Point"
+      },
+      "id": "69",
+      "properties": {
+        "program": "agrimet",
+        "url": "gdvida.html",
+        "siteid": "gdvi",
+        "title": "Grand View, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "10/1/1992"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.64222,
+          47.04388
+        ],
+        "type": "Point"
+      },
+      "id": "70",
+      "properties": {
+        "program": "agrimet",
+        "url": "gerwda.html",
+        "siteid": "gerw",
+        "title": "George, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "5/1/1986"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.81909942627,
+          47.6585311889648
+        ],
+        "type": "Point"
+      },
+      "id": "71",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_gfmt_greenfields.html",
+        "siteid": "gfmt",
+        "title": "Greenfields-Fairfield, MT (GFMT)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.35694,
+          42.86666
+        ],
+        "type": "Point"
+      },
+      "id": "72",
+      "properties": {
+        "program": "agrimet",
+        "url": "gfrida.html",
+        "siteid": "gfri",
+        "title": "Glenns Ferry, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "11/15/1992"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.609329223633,
+          48.1432037353516
+        ],
+        "type": "Point"
+      },
+      "id": "73",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_glgm_glasgow.html",
+        "siteid": "glgm",
+        "title": "Glasgow, MT (GLGM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.82444,
+          45.81194
+        ],
+        "type": "Point"
+      },
+      "id": "74",
+      "properties": {
+        "program": "agrimet",
+        "url": "golwda.html",
+        "siteid": "golw",
+        "title": "Goldendale, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "10/24/1991"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.73606,
+          42.51496
+        ],
+        "type": "Point"
+      },
+      "id": "75",
+      "properties": {
+        "program": "agrimet",
+        "url": "greida.html",
+        "siteid": "grei",
+        "title": "Grace, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/13/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.756527,
+          40.530544
+        ],
+        "type": "Point"
+      },
+      "id": "76",
+      "properties": {
+        "program": "agrimet",
+        "url": "grtuda.html",
+        "siteid": "grtu",
+        "title": "Grantsville, Utah AgriMet Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/10/2015"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.9,
+          38.61
+        ],
+        "type": "Point"
+      },
+      "id": "77",
+      "properties": {
+        "url": "http://ccc.atmos.colostate.edu/",
+        "program": "agrimet",
+        "siteid": "gun01",
+        "title": "Gunnison, Colorado CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.238833,
+          44.007417
+        ],
+        "type": "Point"
+      },
+      "id": "78",
+      "properties": {
+        "program": "agrimet",
+        "url": "hamida.html",
+        "siteid": "hami",
+        "title": "INL - Hamer,  Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.423611,
+          43.709722
+        ],
+        "type": "Point"
+      },
+      "id": "79",
+      "properties": {
+        "program": "agrimet",
+        "url": "hckoda.html",
+        "siteid": "hcko",
+        "title": "Hills Creek Dam Weather Station, Oregon",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/19/2002"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.56685,
+          41.6012333333333
+        ],
+        "type": "Point"
+      },
+      "id": "80",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=412",
+        "siteid": "hdru",
+        "title": "UCC - Hardware Ranch, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.52138,
+          45.82111
+        ],
+        "type": "Point"
+      },
+      "id": "81",
+      "properties": {
+        "program": "agrimet",
+        "url": "heroda.html",
+        "siteid": "hero",
+        "title": "Hermiston, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "5/1/1983"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.97399,
+          39.307898
+        ],
+        "type": "Point"
+      },
+      "id": "82",
+      "properties": {
+        "program": "agrimet",
+        "url": "hntuda.html",
+        "siteid": "hntu",
+        "title": "Huntington, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "12/2/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.51805,
+          45.68444
+        ],
+        "type": "Point"
+      },
+      "id": "83",
+      "properties": {
+        "program": "agrimet",
+        "url": "hoxoda.html",
+        "siteid": "hoxo",
+        "title": "Hood River, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "5/1/1987"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.02,
+          44.48805
+        ],
+        "type": "Point"
+      },
+      "id": "84",
+      "properties": {
+        "program": "agrimet",
+        "url": "hrfoda.html",
+        "siteid": "hrfo",
+        "title": "Hereford, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/28/1998"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.57444,
+          46.38472
+        ],
+        "type": "Point"
+      },
+      "id": "85",
+      "properties": {
+        "program": "agrimet",
+        "url": "hrhwda.html",
+        "siteid": "hrhw",
+        "title": "Harrah, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "5/1/1987"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.834617614746,
+          48.5435676574707
+        ],
+        "type": "Point"
+      },
+      "id": "86",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_hrlm_harlem.html",
+        "siteid": "hrlm",
+        "title": "Harlem, MT (HRLM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.28333,
+          45.81944
+        ],
+        "type": "Point"
+      },
+      "id": "87",
+      "properties": {
+        "program": "agrimet",
+        "url": "hrmoda.html",
+        "siteid": "hrmo",
+        "title": "Hermiston R & E Center, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "7/15/1993"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.333056,
+          40.901111
+        ],
+        "type": "Point"
+      },
+      "id": "88",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnhua",
+        "siteid": "huan",
+        "title": "DRI - Hualapai Flat, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "10/12/2012"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.989151000977,
+          46.6756057739258
+        ],
+        "type": "Point"
+      },
+      "id": "89",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_hvmt_helenavalley.html",
+        "siteid": "hvmt",
+        "title": "Helena Valley, MT (HVMT)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.134583,
+          43.0606
+        ],
+        "type": "Point"
+      },
+      "id": "90",
+      "properties": {
+        "program": "agrimet",
+        "url": "ichida.html",
+        "siteid": "ichi",
+        "title": "INL - Richfield,  Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.050133,
+          43.504133
+        ],
+        "type": "Point"
+      },
+      "id": "91",
+      "properties": {
+        "program": "agrimet",
+        "url": "ifaida.html",
+        "siteid": "ifai",
+        "title": "INL - Idaho Falls,  Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.730267,
+          43.5897
+        ],
+        "type": "Point"
+      },
+      "id": "92",
+      "properties": {
+        "siteid": "igri",
+        "title": "INL - INTEC/Grid 3, Idaho",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.96666,
+          45.43333
+        ],
+        "type": "Point"
+      },
+      "id": "93",
+      "properties": {
+        "program": "agrimet",
+        "url": "imboda.html",
+        "siteid": "imbo",
+        "title": "Imbler, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/1/1994"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.165794372559,
+          45.7977905273438
+        ],
+        "type": "Point"
+      },
+      "id": "94",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_jvwm_jefferson.html",
+        "siteid": "jvwm",
+        "title": "Jefferson River Valley-Whitehall, MT (JVWM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.755,
+          42.16472
+        ],
+        "type": "Point"
+      },
+      "id": "95",
+      "properties": {
+        "program": "agrimet",
+        "url": "kfloda.html",
+        "siteid": "kflo",
+        "title": "Klamath Falls, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/30/1999"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.12416,
+          48.595
+        ],
+        "type": "Point"
+      },
+      "id": "96",
+      "properties": {
+        "program": "agrimet",
+        "url": "kflwda.html",
+        "siteid": "kflw",
+        "title": "Kettle Falls, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/17/2002"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.325833333333,
+          43.5486111111111
+        ],
+        "type": "Point"
+      },
+      "id": "97",
+      "properties": {
+        "program": "agrimet",
+        "url": "ktbida.html",
+        "siteid": "ktbi",
+        "title": "Kettle Butte, Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": "10/15/1995"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.52305,
+          42.12222
+        ],
+        "type": "Point"
+      },
+      "id": "98",
+      "properties": {
+        "program": "agrimet",
+        "url": "lakoda.html",
+        "siteid": "lako",
+        "title": "Lakeview, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/1/1988"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.334383333333,
+          41.8379
+        ],
+        "type": "Point"
+      },
+      "id": "99",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=406",
+        "siteid": "laku",
+        "title": "UCC - Laketown , Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.65416,
+          46.6975
+        ],
+        "type": "Point"
+      },
+      "id": "100",
+      "properties": {
+        "program": "agrimet",
+        "url": "lbrwda.html",
+        "siteid": "lbrw",
+        "title": "Lake Bryan - Rice Bar, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/19/2002"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.93611,
+          46.20527
+        ],
+        "type": "Point"
+      },
+      "id": "101",
+      "properties": {
+        "program": "agrimet",
+        "url": "legwda.html",
+        "siteid": "legw",
+        "title": "Legrow, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "7/1/1986"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.869033333333,
+          41.9521333333333
+        ],
+        "type": "Point"
+      },
+      "id": "102",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=404",
+        "siteid": "lewu",
+        "title": "UCC - Lewiston, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.803533333333,
+          41.7386833333333
+        ],
+        "type": "Point"
+      },
+      "id": "103",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=409",
+        "siteid": "lggu",
+        "title": "UCC - Logan Golf, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.803611111111,
+          41.7386111111111
+        ],
+        "type": "Point"
+      },
+      "id": "104",
+      "properties": {
+        "siteid": "lgiu",
+        "title": "Logan Island Backyard, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": "......................."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.087208,
+          47.66533
+        ],
+        "type": "Point"
+      },
+      "id": "105",
+      "properties": {
+        "program": "agrimet",
+        "url": "libwda.html",
+        "siteid": "libw",
+        "title": "Liberty Lake, Washington Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "11/18/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.73944,
+          46.86722
+        ],
+        "type": "Point"
+      },
+      "id": "106",
+      "properties": {
+        "program": "agrimet",
+        "url": "lidwda.html",
+        "siteid": "lidw",
+        "title": "Lind, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "5/1/1983"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.7527777,
+          43.9166666
+        ],
+        "type": "Point"
+      },
+      "id": "107",
+      "properties": {
+        "program": "agrimet",
+        "url": "lkpoda.html",
+        "siteid": "lkpo",
+        "title": "Lookout Point Dam Weather Station, Oregon",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/19/2002"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.005752563477,
+          46.5627326965332
+        ],
+        "type": "Point"
+      },
+      "id": "108",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_lmmm_lowermussel.html",
+        "siteid": "lmmm",
+        "title": "Lower Musselshell-Melstone, MT (LMMM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.038111111,
+          38.86684722
+        ],
+        "type": "Point"
+      },
+      "id": "109",
+      "properties": {
+        "url": "lndnda.html",
+        "program": "agrimet",
+        "siteid": "lndn",
+        "title": "Lund, Nevada AgriMet Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "8/4/2015"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.635725,
+          38.383349
+        ],
+        "type": "Point"
+      },
+      "id": "110",
+      "properties": {
+        "siteid": "loau",
+        "title": "Loa, UT AgriMet  Weather Station ",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/20/2016"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.730267,
+          43.859767
+        ],
+        "type": "Point"
+      },
+      "id": "111",
+      "properties": {
+        "siteid": "lofi",
+        "title": "INL - Specific Manufacturing Capability, Idaho",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.22416,
+          42.07777
+        ],
+        "type": "Point"
+      },
+      "id": "112",
+      "properties": {
+        "program": "agrimet",
+        "url": "loroda.htm",
+        "siteid": "loro",
+        "title": "Lorella, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/1/2001"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -113.41388,
+          42.4375
+        ],
+        "type": "Point"
+      },
+      "id": "113",
+      "properties": {
+        "program": "agrimet",
+        "url": "malida.html",
+        "siteid": "mali",
+        "title": "Malta, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "6/1/1983"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.12444,
+          47.91694
+        ],
+        "type": "Point"
+      },
+      "id": "114",
+      "properties": {
+        "program": "agrimet",
+        "url": "maswda.html",
+        "siteid": "masw",
+        "title": "Manson, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "11/3/1993"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -107.776496887207,
+          48.3740119934082
+        ],
+        "type": "Point"
+      },
+      "id": "115",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_matm_malta.html",
+        "siteid": "matm",
+        "title": "Malta, MT (MATM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.07621,
+          44.87789
+        ],
+        "type": "Point"
+      },
+      "id": "116",
+      "properties": {
+        "siteid": "mdeo",
+        "title": "Moody Farms East Satellite, Oregon Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/10/2013 12:00:00 AM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.93777,
+          42.33111
+        ],
+        "type": "Point"
+      },
+      "id": "117",
+      "properties": {
+        "program": "agrimet",
+        "url": "mdfoda.html",
+        "siteid": "mdfo",
+        "title": "Medford, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "5/1/1989"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -113.58965,
+          42.804417
+        ],
+        "type": "Point"
+      },
+      "id": "118",
+      "properties": {
+        "program": "agrimet",
+        "url": "mdkida.html",
+        "siteid": "mdki",
+        "title": "INL - Minidoka,  Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.06748,
+          44.87365
+        ],
+        "type": "Point"
+      },
+      "id": "119",
+      "properties": {
+        "siteid": "mdno",
+        "title": "Moody Farms North Satellite, Oregon Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/10/2013 12:00:00 AM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.06508,
+          44.86472
+        ],
+        "type": "Point"
+      },
+      "id": "120",
+      "properties": {
+        "siteid": "mdso",
+        "title": "Moody Farms South Satellite, Oregon Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/10/2013 12:00:00 AM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.07948,
+          44.86941
+        ],
+        "type": "Point"
+      },
+      "id": "121",
+      "properties": {
+        "siteid": "mdto",
+        "title": "Moody Farms West Satellite, Oregon Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/10/2013 12:00:00 AM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.0683,
+          44.86912
+        ],
+        "type": "Point"
+      },
+      "id": "122",
+      "properties": {
+        "program": "agrimet",
+        "url": "mdxoda.html",
+        "siteid": "mdxo",
+        "title": "Moody Farms Control Station, Oregon Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/9/2013"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.33773,
+          42.25452
+        ],
+        "type": "Point"
+      },
+      "id": "123",
+      "properties": {
+        "program": "agrimet",
+        "url": "mnpida.html",
+        "siteid": "mnpi",
+        "title": "Montpelier, Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.157598,
+          38.634188
+        ],
+        "type": "Point"
+      },
+      "id": "124",
+      "properties": {
+        "program": "agrimet",
+        "url": "mnruda.html",
+        "siteid": "mnru",
+        "title": "Monroe, Utah AgriMet Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/11/2015"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.535833333333,
+          44.015
+        ],
+        "type": "Point"
+      },
+      "id": "125",
+      "properties": {
+        "program": "agrimet",
+        "url": "mntida.html",
+        "siteid": "mnti",
+        "title": "Monteview, Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "10/15/1995"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.458889,
+          36.569722
+        ],
+        "type": "Point"
+      },
+      "id": "126",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnmoa",
+        "siteid": "moan",
+        "title": "DRI - Moapa Valley, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "2/10/2010"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.14861,
+          44.68
+        ],
+        "type": "Point"
+      },
+      "id": "127",
+      "properties": {
+        "program": "agrimet",
+        "url": "mrsoda.html",
+        "siteid": "mrso",
+        "title": "Madras, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "5/1/1984"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.147222,
+          39.106667
+        ],
+        "type": "Point"
+      },
+      "id": "128",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnmas",
+        "siteid": "msvn",
+        "title": "DRI - Mason Valley WMA, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "4/10/2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.9198,
+          40.6313333333333
+        ],
+        "type": "Point"
+      },
+      "id": "129",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=415",
+        "siteid": "muru",
+        "title": "UCC - Murray, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.950752258301,
+          47.058536529541
+        ],
+        "type": "Point"
+      },
+      "id": "130",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_mwsm_moccasin.html",
+        "siteid": "mwsm",
+        "title": "Moccasin, MT (MWSM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.1479,
+          44.85424
+        ],
+        "type": "Point"
+      },
+      "id": "131",
+      "properties": {
+        "program": "agrimet",
+        "url": "mwsoda.html",
+        "siteid": "mwso",
+        "title": "Middle Warm Springs, Oregon Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/12/2013"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.876783333333,
+          39.6894166666667
+        ],
+        "type": "Point"
+      },
+      "id": "132",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=416",
+        "siteid": "nepu",
+        "title": "UCC - Nephi, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.64527,
+          43.43722
+        ],
+        "type": "Point"
+      },
+      "id": "133",
+      "properties": {
+        "program": "agrimet",
+        "url": "nmpida.html",
+        "siteid": "nmpi",
+        "title": "Nampa, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/11/1996"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.506667,
+          39.458056
+        ],
+        "type": "Point"
+      },
+      "id": "134",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnnsv",
+        "siteid": "nsvn",
+        "title": "DRI - North Spring Valley, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "6/11/2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.87861,
+          47.30888
+        ],
+        "type": "Point"
+      },
+      "id": "135",
+      "properties": {
+        "program": "agrimet",
+        "url": "odswda.html",
+        "siteid": "odsw",
+        "title": "Odessa, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/1/1984"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.05,
+          38.64
+        ],
+        "type": "Point"
+      },
+      "id": "136",
+      "properties": {
+        "url": "http://ccc.atmos.colostate.edu/",
+        "program": "agrimet",
+        "siteid": "olth01",
+        "title": "Olathe, Colorado CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.07,
+          38.61
+        ],
+        "type": "Point"
+      },
+      "id": "137",
+      "properties": {
+        "url": "http://ccc.atmos.colostate.edu/",
+        "program": "agrimet",
+        "siteid": "olth02",
+        "title": "Olathe2, Colorado CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.57611,
+          48.4025
+        ],
+        "type": "Point"
+      },
+      "id": "138",
+      "properties": {
+        "program": "agrimet",
+        "url": "omawda.html",
+        "siteid": "omaw",
+        "title": "Omak, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "1/1/1989"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.01527,
+          43.97777
+        ],
+        "type": "Point"
+      },
+      "id": "139",
+      "properties": {
+        "program": "agrimet",
+        "url": "ontoda.html",
+        "siteid": "onto",
+        "title": "Ontario, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/30/1992"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.07568,
+          43.58884
+        ],
+        "type": "Point"
+      },
+      "id": "140",
+      "properties": {
+        "program": "agrimet",
+        "url": "osgida.html",
+        "siteid": "osgi",
+        "title": "Osgood, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/13/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.977317,
+          43.784117
+        ],
+        "type": "Point"
+      },
+      "id": "141",
+      "properties": {
+        "program": "agrimet",
+        "url": "oweida.html",
+        "siteid": "owei",
+        "title": "INL - Howe, Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.421766666667,
+          37.8685833333333
+        ],
+        "type": "Point"
+      },
+      "id": "142",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=420",
+        "siteid": "panu",
+        "title": "UCC - Panguitch, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.61666,
+          45.54444
+        ],
+        "type": "Point"
+      },
+      "id": "143",
+      "properties": {
+        "program": "agrimet",
+        "url": "paroda.html",
+        "siteid": "paro",
+        "title": "Parkdale, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "11/1/1988"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.881066666667,
+          37.8622666666667
+        ],
+        "type": "Point"
+      },
+      "id": "144",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=421",
+        "siteid": "paru",
+        "title": "UCC - Parowan, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.62777,
+          44.44083
+        ],
+        "type": "Point"
+      },
+      "id": "145",
+      "properties": {
+        "program": "agrimet",
+        "url": "pcyoda.html",
+        "siteid": "pcyo",
+        "title": "Prairie City, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/1/1989"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.66665,
+          40.17426
+        ],
+        "type": "Point"
+      },
+      "id": "146",
+      "properties": {
+        "program": "agrimet",
+        "url": "peluda.html",
+        "siteid": "pelu",
+        "title": "Pelican Lake, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "12/3/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.16583,
+          43.31166
+        ],
+        "type": "Point"
+      },
+      "id": "147",
+      "properties": {
+        "program": "agrimet",
+        "url": "picida.html",
+        "siteid": "pici",
+        "title": "Picabo, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "5/1/1982"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.09471,
+          40.1663
+        ],
+        "type": "Point"
+      },
+      "id": "148",
+      "properties": {
+        "program": "agrimet",
+        "url": "plvuda.html",
+        "siteid": "plvu",
+        "title": "Pleasant Valley, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "12/3/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.93333,
+          43.8
+        ],
+        "type": "Point"
+      },
+      "id": "149",
+      "properties": {
+        "program": "agrimet",
+        "url": "pmaida.html",
+        "siteid": "pmai",
+        "title": "Parma, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/1/1986"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.50916,
+          45.65222
+        ],
+        "type": "Point"
+      },
+      "id": "150",
+      "properties": {
+        "program": "agrimet",
+        "url": "pngoda.html",
+        "siteid": "pngo",
+        "title": "Pine Grove, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "11/1/1988"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.94972,
+          44.24833
+        ],
+        "type": "Point"
+      },
+      "id": "151",
+      "properties": {
+        "program": "agrimet",
+        "url": "poboda.html",
+        "siteid": "pobo",
+        "title": "Powell Butte, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/21/1993"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.970096,
+          47.713664
+        ],
+        "type": "Point"
+      },
+      "id": "152",
+      "properties": {
+        "program": "agrimet",
+        "url": "psfida.html",
+        "siteid": "psfi",
+        "title": "Post Falls, Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "11/18/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.89363,
+          42.10715
+        ],
+        "type": "Point"
+      },
+      "id": "153",
+      "properties": {
+        "program": "agrimet",
+        "url": "pstida.html",
+        "siteid": "psti",
+        "title": "Preston, Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "11/5/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.660278,
+          41.185556
+        ],
+        "type": "Point"
+      },
+      "id": "154",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnpva",
+        "siteid": "pvan",
+        "title": "DRI - Paradise Valley, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "11/10/2010"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.106389,
+          37.245556
+        ],
+        "type": "Point"
+      },
+      "id": "155",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnpwl",
+        "siteid": "pwln",
+        "title": "DRI - Pahranagat NWR, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "7/10/2010"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.150283813477,
+          45.3447456359863
+        ],
+        "type": "Point"
+      },
+      "id": "156",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_rbym_ruby.html",
+        "siteid": "rbym",
+        "title": "Ruby River Valley-Laurin, MT (RBYM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.28055,
+          47.53944
+        ],
+        "type": "Point"
+      },
+      "id": "157",
+      "properties": {
+        "program": "agrimet",
+        "url": "rdbmda.html",
+        "siteid": "rdbm",
+        "title": "Round Butte, Montana AgriMet Weather Station",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/1/1989"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.087716666667,
+          41.8326666666667
+        ],
+        "type": "Point"
+      },
+      "id": "158",
+      "properties": {
+        "siteid": "rdhu",
+        "title": "UCC - Randolph, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.87922,
+          43.6772
+        ],
+        "type": "Point"
+      },
+      "id": "159",
+      "properties": {
+        "program": "agrimet",
+        "url": "rgbida.html",
+        "siteid": "rgbi",
+        "title": "Rigby, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/13/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.121117,
+          43.743517
+        ],
+        "type": "Point"
+      },
+      "id": "160",
+      "properties": {
+        "program": "agrimet",
+        "url": "robida.html",
+        "siteid": "robi",
+        "title": "INL - Roberts,  Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.330833,
+          36.478333
+        ],
+        "type": "Point"
+      },
+      "id": "161",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnrog",
+        "siteid": "rogn",
+        "title": "DRI - Rogers Spring, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "9/10/2010"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.43923,
+          43.27079
+        ],
+        "type": "Point"
+      },
+      "id": "162",
+      "properties": {
+        "siteid": "roso",
+        "title": "Roseburg, OR AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "7/26/2016"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -113.87388,
+          42.59555
+        ],
+        "type": "Point"
+      },
+      "id": "163",
+      "properties": {
+        "program": "agrimet",
+        "url": "rptida.html",
+        "siteid": "rpti",
+        "title": "Rupert, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/1/1988"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -113.2971,
+          43.62455
+        ],
+        "type": "Point"
+      },
+      "id": "164",
+      "properties": {
+        "program": "agrimet",
+        "url": "rrcida.html",
+        "siteid": "rrci",
+        "title": "INL - Arco,  Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.700605,
+          43.610345
+        ],
+        "type": "Point"
+      },
+      "id": "165",
+      "properties": {
+        "program": "agrimet",
+        "url": "rriida.html",
+        "siteid": "rrii",
+        "title": "Ririe, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/13/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.83333,
+          47.8
+        ],
+        "type": "Point"
+      },
+      "id": "166",
+      "properties": {
+        "program": "agrimet",
+        "url": "rthida.html",
+        "siteid": "rthi",
+        "title": "Rathdrum Prairie, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/9/2008"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.76666,
+          43.85
+        ],
+        "type": "Point"
+      },
+      "id": "167",
+      "properties": {
+        "program": "agrimet",
+        "url": "rxgida.html",
+        "siteid": "rxgi",
+        "title": "Rexburg, Idaho AgriMet Weather Station ",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "6/1/1987"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.970133,
+          47.954642
+        ],
+        "type": "Point"
+      },
+      "id": "168",
+      "properties": {
+        "siteid": "sacw",
+        "title": "Sacheen Lake, Washington Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "1/27/2016"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.34111,
+          47.85527
+        ],
+        "type": "Point"
+      },
+      "id": "169",
+      "properties": {
+        "program": "agrimet",
+        "url": "sbmwda.html",
+        "siteid": "sbmw",
+        "title": "Seven Bays Marina, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/16/2002"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.098476,
+          39.22009
+        ],
+        "type": "Point"
+      },
+      "id": "170",
+      "properties": {
+        "program": "agrimet",
+        "url": "scpuda.html",
+        "siteid": "scpu",
+        "title": "Scipio, Utah AgriMet Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/13/2015"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.14273,
+          43.43452
+        ],
+        "type": "Point"
+      },
+      "id": "171",
+      "properties": {
+        "program": "agrimet",
+        "url": "shlida.html",
+        "siteid": "shli",
+        "title": "Shelley, Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/13/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.08416,
+          47.32527
+        ],
+        "type": "Point"
+      },
+      "id": "172",
+      "properties": {
+        "program": "agrimet",
+        "url": "sigmda.html",
+        "siteid": "sigm",
+        "title": "Saint Ignatius, Montana AgriMet Weather Station",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/1/1991"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.18472,
+          46.41861
+        ],
+        "type": "Point"
+      },
+      "id": "173",
+      "properties": {
+        "program": "agrimet",
+        "url": "silwda.html",
+        "siteid": "silw",
+        "title": "Silcott Island, Washington AgriMet Weather Station",
+        "state": "WA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/19/2002"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.71243,
+          47.901142
+        ],
+        "type": "Point"
+      },
+      "id": "174",
+      "properties": {
+        "program": "agrimet",
+        "url": "slwida.html",
+        "siteid": "slwi",
+        "title": "Silverwood WWTP Athol, Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "6/26/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.335556,
+          38.751389
+        ],
+        "type": "Point"
+      },
+      "id": "175",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnsmv",
+        "siteid": "smvn",
+        "title": "DRI - Smith Valley, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "8/10/2010"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.089722,
+          39.021111
+        ],
+        "type": "Point"
+      },
+      "id": "176",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnsna",
+        "siteid": "snkn",
+        "title": "DRI - Snake Valley, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "8/10/2010"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.72465,
+          41.86625
+        ],
+        "type": "Point"
+      },
+      "id": "177",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=402",
+        "siteid": "snsu",
+        "title": "UCC - Snowville South, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.911983333333,
+          41.9838166666667
+        ],
+        "type": "Point"
+      },
+      "id": "178",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=401",
+        "siteid": "snwu",
+        "title": "UCC - Snowville (West), Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.737778,
+          39.503056
+        ],
+        "type": "Point"
+      },
+      "id": "179",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnspn",
+        "siteid": "span",
+        "title": "DRI - Truckee Meadows, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "5/10/2010"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.629116666667,
+          40.0672
+        ],
+        "type": "Point"
+      },
+      "id": "180",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=414",
+        "siteid": "spfu",
+        "title": "UCC - Spanish Fork, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.884978,
+          47.987552
+        ],
+        "type": "Point"
+      },
+      "id": "181",
+      "properties": {
+        "program": "agrimet",
+        "url": "splida.html",
+        "siteid": "spli",
+        "title": "Spirit Lake, Washington Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "11/19/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.537214,
+          39.485745
+        ],
+        "type": "Point"
+      },
+      "id": "182",
+      "properties": {
+        "program": "agrimet",
+        "url": "spvuda.html",
+        "siteid": "spvu",
+        "title": "San Pete Valley, Utah AgriMet Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/16/2015"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.7975,
+          37.646667
+        ],
+        "type": "Point"
+      },
+      "id": "183",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnssv",
+        "siteid": "ssvn",
+        "title": "DRI - Sand Spring Valley, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "12/10/2010"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.651389,
+          40.084167
+        ],
+        "type": "Point"
+      },
+      "id": "184",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvstvn",
+        "siteid": "stvn",
+        "title": "DRI - Steptoe Valley North, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "3/11/2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.737617,
+          43.896583
+        ],
+        "type": "Point"
+      },
+      "id": "185",
+      "properties": {
+        "program": "agrimet",
+        "url": "sugida.html",
+        "siteid": "sugi",
+        "title": "INL - Sugar City,  Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.63823,
+          39.45071
+        ],
+        "type": "Point"
+      },
+      "id": "186",
+      "properties": {
+        "program": "agrimet",
+        "url": "sutuda.html",
+        "siteid": "sutu",
+        "title": "Sutherland, Utah  AgriMet Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.653282165527,
+          46.0465965270996
+        ],
+        "type": "Point"
+      },
+      "id": "187",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_svwm_shieldriver.html",
+        "siteid": "svwm",
+        "title": "Shields Valley-Wilsall, MT (SVWM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.810278,
+          39.195556
+        ],
+        "type": "Point"
+      },
+      "id": "188",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://www.wrcc.dri.edu/cgi-bin/rawMAIN.pl?nvnswm",
+        "siteid": "swmn",
+        "title": "DRI - Steptoe Valley WMA, Nevada Weather Station",
+        "state": "NV",
+        "type": "agrimet",
+        "region": "dri",
+        "install": "3/11/2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.6918,
+          43.318683
+        ],
+        "type": "Point"
+      },
+      "id": "189",
+      "properties": {
+        "program": "agrimet",
+        "url": "tabida.html",
+        "siteid": "tabi",
+        "title": "INL - Taber,  Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.41825,
+          43.841683
+        ],
+        "type": "Point"
+      },
+      "id": "190",
+      "properties": {
+        "program": "agrimet",
+        "url": "terida.html",
+        "siteid": "teri",
+        "title": "INL - Terreton,  Idaho Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "noaa",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.601548,
+          42.568782
+        ],
+        "type": "Point"
+      },
+      "id": "191",
+      "properties": {
+        "program": "agrimet",
+        "url": "tfgida.html",
+        "siteid": "tfgi",
+        "title": "Twin Falls Fairgrounds, Filer Idaho",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "8/21/2013"
+      },
+      "type": "Feature"
+    },
+{
+      "geometry": {
+        "coordinates": [
+          -121.51496,
+          41.86409
+        ],
+        "type": "Point"
+      },
+      "id": "203",
+      "properties": {
+        "program": "agrimet",
+        "url": "tlkcda.html",
+        "siteid": "tlkc",
+        "title": "Tulelake, California",
+        "state": "CA",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "12/21/2016"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.49488067627,
+          46.1222457885742
+        ],
+        "type": "Point"
+      },
+      "id": "192",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_tosm_toston.html",
+        "siteid": "tosm",
+        "title": "Toston, MT (TOSM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.159675598145,
+          47.900520324707
+        ],
+        "type": "Point"
+      },
+      "id": "193",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_trfm_teton.html",
+        "siteid": "trfm",
+        "title": "Teton River-Farmington, MT (TRFM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.15375,
+          41.7229333333333
+        ],
+        "type": "Point"
+      },
+      "id": "194",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=407",
+        "siteid": "trmu",
+        "title": "UCC - Tremonton, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.046416,
+          37.627466
+        ],
+        "type": "Point"
+      },
+      "id": "195",
+      "properties": {
+        "program": "agrimet",
+        "url": "trpuda.html",
+        "siteid": "trpu",
+        "title": "Tropic, Utah AgriMet Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/12/2015"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.26394,
+          43.8704
+        ],
+        "type": "Point"
+      },
+      "id": "196",
+      "properties": {
+        "program": "agrimet",
+        "url": "trtida.html",
+        "siteid": "trti",
+        "title": "Terraton, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/13/2014"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.34527,
+          42.54611
+        ],
+        "type": "Point"
+      },
+      "id": "197",
+      "properties": {
+        "program": "agrimet",
+        "url": "twfida.html",
+        "siteid": "twfi",
+        "title": "Twin Falls (Kimberly) Idaho AgriMet Weather Station  7E",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "3/1/1990"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.940818786621,
+          46.4469146728516
+        ],
+        "type": "Point"
+      },
+      "id": "198",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_umhm_uppermussel.html",
+        "siteid": "umhm",
+        "title": "Upper Musselshell-Harlowton, MT (UMHM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.000367,
+          38.8235
+        ],
+        "type": "Point"
+      },
+      "id": "199",
+      "properties": {
+        "program": "agrimet",
+        "url": "http://climate.usurf.usu.edu/agweather.php?station_num=418",
+        "siteid": "vecu",
+        "title": "UCC - Venice, Utah Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "ucc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.562021,
+          40.45841
+        ],
+        "type": "Point"
+      },
+      "id": "200",
+      "properties": {
+        "siteid": "vrnu",
+        "title": "Vernal, UT AgriMet Weather Station",
+        "state": "UT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/20/2016"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.7875,
+          42.0125
+        ],
+        "type": "Point"
+      },
+      "id": "201",
+      "properties": {
+        "program": "agrimet",
+        "url": "wrdoda.html",
+        "siteid": "wrdo",
+        "title": "Worden, Oregon AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "4/19/2000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.947608947754,
+          46.5533676147461
+        ],
+        "type": "Point"
+      },
+      "id": "202",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://www.usbr.gov/gp/agrimet/station_wssm_whitesulphur.html",
+        "siteid": "wssm",
+        "title": "White Sulphur Springs, MT (WSSM)",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "great_plains",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -107.98987,
+          39.1993
+        ],
+        "type": "Point"
+      },
+      "id": "203",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/CBN01",
+        "siteid": "CBN01",
+        "title": "CCC - Colbran, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.93395,
+          40.704305
+        ],
+        "type": "Point"
+      },
+      "id": "204",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/CLK01",
+        "siteid": "CLK01",
+        "title": "CCC - Clark, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.943,
+          40.1047
+        ],
+        "type": "Point"
+      },
+      "id": "205",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/GBY01",
+        "siteid": "GBY01",
+        "title": "CCC - Granby, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -107.706966,
+          37.138116
+        ],
+        "type": "Point"
+      },
+      "id": "206",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/IGN01",
+        "siteid": "IGN01",
+        "title": "CCC - Ignacio, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.1465,
+          37.138116
+        ],
+        "type": "Point"
+      },
+      "id": "207",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/KLN01",
+        "siteid": "KLN01",
+        "title": "CCC - Kline, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.28313,
+          40.115446
+        ],
+        "type": "Point"
+      },
+      "id": "208",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/KRM01",
+        "siteid": "KRM01",
+        "title": "CCC - Kremmling, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -107.908,
+          40.0083
+        ],
+        "type": "Point"
+      },
+      "id": "209",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/MKR01",
+        "siteid": "MKR01",
+        "title": "CCC - Meeker, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.982614,
+          37.277047
+        ],
+        "type": "Point"
+      },
+      "id": "210",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/PGS01",
+        "siteid": "PGS01",
+        "title": "CCC - Pagosa Springs, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -107.880539,
+          37.112533
+        ],
+        "type": "Point"
+      },
+      "id": "211",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/DRG01",
+        "siteid": "DRG01",
+        "title": "CCC - Durango, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.284,
+          38.151
+        ],
+        "type": "Point"
+      },
+      "id": "212",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/NWD01",
+        "siteid": "NWD01",
+        "title": "CCC - Norwood, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -103.142,
+          40.1548
+        ],
+        "type": "Point"
+      },
+      "id": "213",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/AKR02",
+        "siteid": "AKR02",
+        "title": "CCC - Akron, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.72,
+          40.569
+        ],
+        "type": "Point"
+      },
+      "id": "214",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/ALT01",
+        "siteid": "ALT01",
+        "title": "CCC - Ault, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.341,
+          38.2166
+        ],
+        "type": "Point"
+      },
+      "id": "215",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/AVN01",
+        "siteid": "AVN01",
+        "title": "CCC - Avondale, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.557,
+          37.3905
+        ],
+        "type": "Point"
+      },
+      "id": "216",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/BLA01",
+        "siteid": "BLA01",
+        "title": "CCC - Blanca, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.129,
+          38.8315
+        ],
+        "type": "Point"
+      },
+      "id": "217",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/BNV01",
+        "siteid": "BNV01",
+        "title": "CCC - Buena Vista, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.319,
+          40.5947
+        ],
+        "type": "Point"
+      },
+      "id": "218",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/BRG01",
+        "siteid": "BRG01",
+        "title": "CCC - Briggsdale, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.855,
+          38.3279
+        ],
+        "type": "Point"
+      },
+      "id": "219",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/BRK01",
+        "siteid": "BRK01",
+        "title": "CCC - Bedrock, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.109,
+          39.2651
+        ],
+        "type": "Point"
+      },
+      "id": "220",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/BRL02",
+        "siteid": "BRL02",
+        "title": "CCC - Burlington South (#2), CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.196,
+          39.3374
+        ],
+        "type": "Point"
+      },
+      "id": "221",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/BRL03",
+        "siteid": "BRL03",
+        "title": "CCC - Burlington 3, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -107.208,
+          39.3623
+        ],
+        "type": "Point"
+      },
+      "id": "222",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/CBL01",
+        "siteid": "CBL01",
+        "title": "CCC - Carbondale, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.267,
+          40.8263
+        ],
+        "type": "Point"
+      },
+      "id": "223",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/CKP01",
+        "siteid": "CKP01",
+        "title": "CCC - Cherokee Park, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.178,
+          38.4319
+        ],
+        "type": "Point"
+      },
+      "id": "224",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/CNN01",
+        "siteid": "CNN01",
+        "title": "CCC - Canon City, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.336,
+          40.8659
+        ],
+        "type": "Point"
+      },
+      "id": "225",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/COW01",
+        "siteid": "COW01",
+        "title": "CCC - Cowdrey, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+{
+      "geometry": {
+        "coordinates": [
+          -106.144,
+          37.7067
+        ],
+        "type": "Point"
+      },
+      "id": "226",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/CTR01",
+        "siteid": "CTR01",
+        "title": "CCC - Center, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.144,
+          37.8288
+        ],
+        "type": "Point"
+      },
+      "id": "227",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/CTR02",
+        "siteid": "CTR02",
+        "title": "CCC - Center #2, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.673,
+          37.2248
+        ],
+        "type": "Point"
+      },
+      "id": "228",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/CTZ01",
+        "siteid": "CTZ01",
+        "title": "CCC - Cortez, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.954,
+          37.7265
+        ],
+        "type": "Point"
+      },
+      "id": "229",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/DVC01",
+        "siteid": "DVC01",
+        "title": "CCC - Dove Creek, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -103.798,
+          39.7857
+        ],
+        "type": "Point"
+      },
+      "id": "230",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/EAC01",
+        "siteid": "EAC01",
+        "title": "CCC - Eastern Adams County, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+{
+      "geometry": {
+        "coordinates": [
+          -107.973,
+          37.2248
+        ],
+        "type": "Point"
+      },
+      "id": "231",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/EKT01",
+        "siteid": "EKT01",
+        "title": "CCC - Eckert, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.137,
+          40.5947
+        ],
+        "type": "Point"
+      },
+      "id": "232",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/FTVC01",
+        "siteid": "FTC01",
+        "title": "CCC - Fort Collins, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105,
+          40.6525
+        ],
+        "type": "Point"
+      },
+      "id": "233",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/FTC03",
+        "siteid": "FTC03",
+        "title": "CCC - CSU - ARDEC, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.849,
+          40.0011
+        ],
+        "type": "Point"
+      },
+      "id": "234",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/FLT01",
+        "siteid": "FLT01",
+        "title": "CCC - Fort Lupton, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.032,
+          38.1351
+        ],
+        "type": "Point"
+      },
+      "id": "235",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/FWL01",
+        "siteid": "FWL01",
+        "title": "CCC - Fowler, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.638,
+          40.4487
+        ],
+        "type": "Point"
+      },
+      "id": "236",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/GLY01",
+        "siteid": "GLY01",
+        "title": "CCC - Greeley, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.947,
+          39.6344
+        ],
+        "type": "Point"
+      },
+      "id": "237",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/GYP01",
+        "siteid": "GYP01",
+        "title": "CCC - Gypsum, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.388,
+          40.5455
+        ],
+        "type": "Point"
+      },
+      "id": "238",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/HEB01",
+        "siteid": "HEB01",
+        "title": "CCC - Hebron, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.09,
+          38.07
+        ],
+        "type": "Point"
+      },
+      "id": "239",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/HLY01",
+        "siteid": "HLY01",
+        "title": "CCC - Holly, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.241,
+          38.1361
+        ],
+        "type": "Point"
+      },
+      "id": "240",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/HLY02",
+        "siteid": "HLY02",
+        "title": "CCC - Holly #2, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.313,
+          37.2893
+        ],
+        "type": "Point"
+      },
+      "id": "241",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/HNE01",
+        "siteid": "HNE01",
+        "title": "CCC - Hoehne, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -107.792,
+          38.7917
+        ],
+        "type": "Point"
+      },
+      "id": "242",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/HOT01",
+        "siteid": "HOT01",
+        "title": "CCC - CSU Rogers Mesa Expt Sta, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.647,
+          40.6722
+        ],
+        "type": "Point"
+      },
+      "id": "243",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/HXT01",
+        "siteid": "HXT01",
+        "title": "CCC - Haxtun, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -107.181,
+          40.499
+        ],
+        "type": "Point"
+      },
+      "id": "244",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/HYD01",
+        "siteid": "HYD01",
+        "title": "CCC - Hayden, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.089,
+          40.4909
+        ],
+        "type": "Point"
+      },
+      "id": "245",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/HYK01",
+        "siteid": "HYK01",
+        "title": "CCC - Holyoke, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.302,
+          39.7312
+        ],
+        "type": "Point"
+      },
+      "id": "246",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/IDL01",
+        "siteid": "IDL01",
+        "title": "CCC - Idalia, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10013.045,
+          40.7687
+        ],
+        "type": "Point"
+      },
+      "id": "247",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/ILF01",
+        "siteid": "ILF01",
+        "title": "CCC - Iliff, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.811,
+          39.3542
+        ],
+        "type": "Point"
+      },
+      "id": "248",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/JFN01",
+        "siteid": "JFN01",
+        "title": "CCC - Jefferson, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.621,
+          39.6554
+        ],
+        "type": "Point"
+      },
+      "id": "249",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/KRK01",
+        "siteid": "KRK01",
+        "title": "CCC - Kirk, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.532,
+          40.3768
+        ],
+        "type": "Point"
+      },
+      "id": "250",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/KSY01",
+        "siteid": "KSY01",
+        "title": "CCC - Kersey 1, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.478,
+          40.3629
+        ],
+        "type": "Point"
+      },
+      "id": "251",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/KSY02",
+        "siteid": "KSY02",
+        "title": "CCC - Kersey 2, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.596,
+          37.9807
+        ],
+        "type": "Point"
+      },
+      "id": "252",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/LAM01",
+        "siteid": "LAM01",
+        "title": "CCC - Lamar #1, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.713,
+          37.9798
+        ],
+        "type": "Point"
+      },
+      "id": "253",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/LAM03",
+        "siteid": "LAM03",
+        "title": "CCC - Lamar #3, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.599,
+          38.1539
+        ],
+        "type": "Point"
+      },
+      "id": "254",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/LAM04",
+        "siteid": "LAM04",
+        "title": "CCC - Lamar #4, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.3,
+          40.6126
+        ],
+        "type": "Point"
+      },
+      "id": "255",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/LAR01",
+        "siteid": "LAR01",
+        "title": "CCC - Larand, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.707,
+          40.4756
+        ],
+        "type": "Point"
+      },
+      "id": "256",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/LCN01",
+        "siteid": "LCN01",
+        "title": "CCC - Lucerne, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.964,
+          37.2551
+        ],
+        "type": "Point"
+      },
+      "id": "257",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/LJR01",
+        "siteid": "LJR01",
+        "title": "CCC - LaJara, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -103.366,
+          38.0778
+        ],
+        "type": "Point"
+      },
+      "id": "258",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/LJT01",
+        "siteid": "LJT01",
+        "title": "CCC - LaJunta, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.859,
+          38.1478
+        ],
+        "type": "Point"
+      },
+      "id": "259",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/LMS01",
+        "siteid": "LMS01",
+        "title": "CCC - Las Animas, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.63,
+          40.3349
+        ],
+        "type": "Point"
+      },
+      "id": "260",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/LSL01",
+        "siteid": "LSL01",
+        "title": "CCC - La Salle, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.338,
+          37.322
+        ],
+        "type": "Point"
+      },
+      "id": "261",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/MNC01",
+        "siteid": "MNC01",
+        "title": "CCC - Mancos, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -107.914,
+          38.5469
+        ],
+        "type": "Point"
+      },
+      "id": "262",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/MTR01",
+        "siteid": "MTR01",
+        "title": "CCC - Montrose, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.46,
+          39.042
+        ],
+        "type": "Point"
+      },
+      "id": "263",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/ORM01",
+        "siteid": "ORM01",
+        "title": "CCC - Orchard Mesa, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.475,
+          40.4248
+        ],
+        "type": "Point"
+      },
+      "id": "264",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/PAI01",
+        "siteid": "PAI01",
+        "title": "CCC - Paoli, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.727,
+          40.3125
+        ],
+        "type": "Point"
+      },
+      "id": "265",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/PKH01",
+        "siteid": "PKH01",
+        "title": "CCC - Peckham, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.811,
+          39.5505
+        ],
+        "type": "Point"
+      },
+      "id": "266",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/PKR01",
+        "siteid": "PKR01",
+        "title": "CCC - Parker, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.998,
+          38.4119
+        ],
+        "type": "Point"
+      },
+      "id": "267",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/PNR01",
+        "siteid": "PNR01",
+        "title": "CCC - Penrose, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -103.695,
+          38.0385
+        ],
+        "type": "Point"
+      },
+      "id": "268",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/RFD01",
+        "siteid": "RFD01",
+        "title": "CCC - CSU Expt Stn Rocky Ford, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.611,
+          37.1417
+        ],
+        "type": "Point"
+      },
+      "id": "269",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/SAN01",
+        "siteid": "SAN01",
+        "title": "CCC - San Acacio, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.925,
+          39.1187
+        ],
+        "type": "Point"
+      },
+      "id": "270",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/SBT01",
+        "siteid": "SBT01",
+        "title": "CCC - Seibert, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.503,
+          38.5439
+        ],
+        "type": "Point"
+      },
+      "id": "271",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/SCM01",
+        "siteid": "SCM01",
+        "title": "CCC - Sand Creek Massacre HS, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.043,
+          38.5715
+        ],
+        "type": "Point"
+      },
+      "id": "272",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/SLD01",
+        "siteid": "SLD01",
+        "title": "CCC - Salida, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -107.693,
+          39.5667
+        ],
+        "type": "Point"
+      },
+      "id": "273",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/SLT01",
+        "siteid": "SLT01",
+        "title": "CCC - Silt, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -103.014,
+          40.2744
+        ],
+        "type": "Point"
+      },
+      "id": "274",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/STG01",
+        "siteid": "STG01",
+        "title": "CCC - Sterling, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.522,
+          39.2987
+        ],
+        "type": "Point"
+      },
+      "id": "275",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/STN01",
+        "siteid": "STN01",
+        "title": "CCC - Stratton, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.935,
+          37.1891
+        ],
+        "type": "Point"
+      },
+      "id": "276",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/TWC01",
+        "siteid": "TWC01",
+        "title": "CCC - Towaoc, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.499,
+          38.1503
+        ],
+        "type": "Point"
+      },
+      "id": "277",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/WCF01",
+        "siteid": "WCF01",
+        "title": "CCC - Westcliffe, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.415,
+          40.1387
+        ],
+        "type": "Point"
+      },
+      "id": "278",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/WFD01",
+        "siteid": "WFD01",
+        "title": "CCC - Wolford Mtn Reservoir, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.294,
+          37.383
+        ],
+        "type": "Point"
+      },
+      "id": "279",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/WLS01",
+        "siteid": "WLS01",
+        "title": "CCC - Walsh, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.265,
+          40.2187
+        ],
+        "type": "Point"
+      },
+      "id": "280",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/WRY02",
+        "siteid": "WRY02",
+        "title": "CCC - Wray 2, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.724,
+          37.5289
+        ],
+        "type": "Point"
+      },
+      "id": "281",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/YJK01",
+        "siteid": "YJK01",
+        "title": "CCC - Yellow Jacket, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.687,
+          37.2478
+        ],
+        "type": "Point"
+      },
+      "id": "282",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/YUC01",
+        "siteid": "YUC01",
+        "title": "CCC - Yucca House, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.724,
+          40.1504
+        ],
+        "type": "Point"
+      },
+      "id": "283",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://coagmet.erams.com/coagmet/charts/YUM01",
+        "siteid": "YUM01",
+        "title": "CCC - Yuma, CO CoAgMet Weather Station",
+        "state": "CO",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.3838,
+          32.754
+        ],
+        "type": "Point"
+      },
+      "id": "284",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://weather.nmsu.edu/ziamet/station/nmcc-ed-1/",
+        "siteid": "nmcc-ed-1",
+        "title": "NMCC - Artesia ASC, NM ZIAMET Weather Station",
+        "state": "NM",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -103.2153,
+          34.5993
+        ],
+        "type": "Point"
+      },
+      "id": "285",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://weather.nmsu.edu/ziamet/station/nmcc-cr-1/",
+        "siteid": "nmcc-cr-1",
+        "title": "NMCC - Clovis ASC, NM ZIAMET Weather Station",
+        "state": "NM",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.4351,
+          34.2708
+        ],
+        "type": "Point"
+      },
+      "id": "286",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://weather.nmsu.edu/ziamet/station/nmcc-tr-2/",
+        "siteid": "nmcc-tr-2",
+        "title": "NMCC - Corona Range LRC, NM ZIAMET Weather Station",
+        "state": "NM",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.771,
+          32.2791
+        ],
+        "type": "Point"
+      },
+      "id": "287",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://weather.nmsu.edu/ziamet/station/nmcc-da-1/",
+        "siteid": "nmcc-da-1",
+        "title": "NMCC - Fabian Garcia SC, NM ZIAMET Weather Station",
+        "state": "NM",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.3101,
+          36.6865
+        ],
+        "type": "Point"
+      },
+      "id": "288",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://weather.nmsu.edu/ziamet/station/nmcc-sj-1/",
+        "siteid": "nmcc-sj-1",
+        "title": "NMCC - Farmington, NM ZIAMET Weather Station",
+        "state": "NM",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.3475,
+          35.9754
+        ],
+        "type": "Point"
+      },
+      "id": "289",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://weather.nmsu.edu/ziamet/station/nmcc-mr-1/",
+        "siteid": "nmcc-mr-1",
+        "title": "NMCC - JTH Forestry Research Center, NM ZIAMET Weather Station",
+        "state": "NM",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.7427,
+          32.201
+        ],
+        "type": "Point"
+      },
+      "id": "290",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://weather.nmsu.edu/ziamet/station/nmcc-da-5/",
+        "siteid": "nmcc-da-5",
+        "title": "NMCC - Leyendecker II PSRC, NM ZIAMET Weather Station",
+        "state": "NM",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.7611,
+          34.7673
+        ],
+        "type": "Point"
+      },
+      "id": "291",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://weather.nmsu.edu/ziamet/station/nmcc-vl-1/",
+        "siteid": "nmcc-vl-1",
+        "title": "NMCC - Los Lunas ASC, NM ZIAMET Weather Station",
+        "state": "NM",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.7598,
+          32.2822
+        ],
+        "type": "Point"
+      },
+      "id": "292",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://weather.nmsu.edu/ziamet/station/nmcc-da-3/",
+        "siteid": "nmcc-da-3",
+        "title": "NMCC - NMSU Main Campus, NM ZIAMET Weather Station",
+        "state": "NM",
+        "type": "agrimet",
+        "region": "ccc",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -107.98616,
+          36.83249
+        ],
+        "type": "Point"
+      },
+      "id": "294",
+      "properties": {
+        "program": "agrimet",
+        "url": "https://weather.nmsu.edu/ziamet/station/nmcc-sj-2/",
+        "siteid": "nmcc-sj-2",
+        "title": "NMCC - Aztec, NM ZIAMET Weather Station",
+        "state": "NM",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -113.371618,
+          47.761774
+        ],
+        "type": "Point"
+      },
+      "id": "295",
+      "properties": {
+        "program": "agrimet",
+        "url": "mreida.html",
+        "siteid": "mrei",
+        "title": "MREI - Moore, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/8/2019"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -113.883958,
+          45.277772
+        ],
+        "type": "Point"
+      },
+      "id": "296",
+      "properties": {
+        "program": "agrimet",
+        "url": "slmida.html",
+        "siteid": "slmi",
+        "title": "SLMI - Salmon, Idaho AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/7/2019"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.269,
+          47.544
+        ],
+        "type": "Point"
+      },
+      "id": "297",
+      "properties": {
+        "program": "agrimet",
+        "url": "rnbmda.html",
+        "siteid": "rnbm",
+        "title": "RNBM - Round Butte, Montana AgriMet Weather Station",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/6/2019"
+      },
+      "type": "Feature"
+    },
+{
+      "geometry": {
+        "coordinates": [
+          -114.336,
+          47.40186
+        ],
+        "type": "Point"
+      },
+      "id": "298",
+      "properties": {
+        "program": "agrimet",
+        "url": "moimda.html",
+        "siteid": "moim",
+        "title": "MOIM - Moiese Valley, Montana AgriMet Weather Station",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/6/2019"
+      },
+      "type": "Feature"
+    },
+{
+      "geometry": {
+        "coordinates": [
+          -114.07185,
+          47.16076
+        ],
+        "type": "Point"
+      },
+      "id": "299",
+      "properties": {
+        "program": "agrimet",
+        "url": "jckmda.html",
+        "siteid": "jckm",
+        "title": "JCKM - Jocko Valley, Montana AgriMet Weather Station",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/5/2019"
+      },
+      "type": "Feature"
+    },
+{
+      "geometry": {
+        "coordinates": [
+          -114.64252,
+          47.61614
+        ],
+        "type": "Point"
+      },
+      "id": "299",
+      "properties": {
+        "program": "agrimet",
+        "url": "htsmda.html",
+        "siteid": "htsm",
+        "title": "HTSM -Hot Springs, Montana AgriMet Weather Station",
+        "state": "MT",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "9/5/2019"
+      },
+      "type": "Feature"
+    },
+{
+      "geometry": {
+        "coordinates": [
+          -115.797846,
+          46.497329
+        ],
+        "type": "Point"
+      },
+      "id": "300",
+      "properties": {
+        "program": "agrimet",
+        "url": "iycida.html",
+        "siteid": "iyci",
+        "title": "IYCI - Idaho Youth Challenge Academy, ID AgriMet Weather Station",
+        "state": "ID",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "5/2/2019"
+      },
+      "type": "Feature"
+    },
+{
+      "geometry": {
+        "coordinates": [
+          -119.025236,
+          43.520722
+        ],
+        "type": "Point"
+      },
+      "id": "301",
+      "properties": {
+        "program": "agrimet",
+        "url": "eoroda.html",
+        "siteid": "eoro",
+        "title": "EORO - EOARC Burns, OR AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "6/25/2019"
+      },
+      "type": "Feature"
+    },
+{
+      "geometry": {
+        "coordinates": [
+          -118.619261,
+          43.416052
+        ],
+        "type": "Point"
+      },
+      "id": "302",
+      "properties": {
+        "program": "agrimet",
+        "url": "ownoda.html",
+        "siteid": "owno",
+        "title": "OWNO - Owen's Hay Crane, OR AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "6/25/2019"
+      },
+      "type": "Feature"
+    },
+{
+      "geometry": {
+        "coordinates": [
+          -123.408127,
+          44.3385
+        ],
+        "type": "Point"
+      },
+      "id": "303",
+      "properties": {
+        "program": "agrimet",
+        "url": "wdhoda.html",
+        "siteid": "wdho",
+        "title": "WDHO - Woodhall Farms near Monroe, OR AgriMet Weather Station",
+        "state": "OR",
+        "type": "agrimet",
+        "region": "pnro",
+        "install": "10/29/2020"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
